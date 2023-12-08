@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Bhupendra143
+- 👋 Hi, I’m Bhupendra Joshi
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Coding
 - 💞️ I’m looking to collaborate on Coding camp
